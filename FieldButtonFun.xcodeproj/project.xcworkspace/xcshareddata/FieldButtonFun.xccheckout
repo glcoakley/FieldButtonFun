@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>238F47C2-16C3-41B8-B574-EEEA3373C1C0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>FieldButtonFun</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>186866D9B52C91870DD8A93BF788B3CFF58C5395</key>
+		<string>https://github.com/glcoakley/FieldButtonFun.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>FieldButtonFun.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>186866D9B52C91870DD8A93BF788B3CFF58C5395</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/glcoakley/FieldButtonFun.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>186866D9B52C91870DD8A93BF788B3CFF58C5395</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>186866D9B52C91870DD8A93BF788B3CFF58C5395</string>
+			<key>IDESourceControlWCCName</key>
+			<string>FieldButtonFun</string>
+		</dict>
+	</array>
+</dict>
+</plist>
